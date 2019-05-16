@@ -4,7 +4,7 @@
 
     <groupId>com.mavelil.version</groupId>
     <artifactId>Version-Test</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -17,7 +17,7 @@
     <scm>
         <connection>scm:git:https://github.com/vishnugopalakrishnan/version-test.git</connection>
         <developerConnection>scm:git:https://github.com/vishnugopalakrishnan/version-test.git</developerConnection>
-        <tag>v1.0.1</tag>
+        <tag>HEAD</tag>
         <url>https://github.com/vishnugopalakrishnan/version-test</url>
     </scm>
 
