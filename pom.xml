@@ -8,6 +8,14 @@
     <artifactId>Version-Test</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <jackson.version>2.8.5</jackson.version>
+        <log4j2.version>2.11.1</log4j2.version>
+    </properties>
+    
     <scm>
         <connection>scm:git:https://github.com/vishnugopalakrishnan/version-test.git</connection>
         <developerConnection>scm:git:https://github.com/vishnugopalakrishnan/version-test.git</developerConnection>
